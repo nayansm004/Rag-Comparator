@@ -15,7 +15,7 @@ langchain-community==0.3.31
 langchain-google-genai==2.1.12
 
 # ========================
-# Embeddings (HuggingFace - Free Alternative)
+# Embeddings (HuggingFace - Alternative)
 # ========================
 sentence-transformers==2.2.2
 torch==2.0.1
