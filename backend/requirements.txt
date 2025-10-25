@@ -17,9 +17,8 @@ langchain-google-genai==2.1.12
 # ========================
 # Embeddings (HuggingFace - Alternative)
 # ========================
-sentence-transformers==2.2.2
-torch==2.0.1
-
+sentence-transformers>=3.0.0
+torch>=2.6.0
 # ========================
 # Vector Store
 # ========================
