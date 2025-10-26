@@ -11,7 +11,7 @@
 
 *Compare two PDF documents side-by-side with intelligent insights powered by Google Gemini 2.5 Flash*
 
-**[Try Live Demo](https://rag-comparator.netlify.app/app)** • [Backend API](https://nayansmgy-rag-comparator-api.hf.space)
+**[Try Live Demo](https://rag-comparator.netlify.app)** • [Backend API](https://nayansmgy-rag-comparator-api.hf.space)
 
 </div>
 
@@ -253,6 +253,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 Built with Google Gemini • LangChain • FAISS • React
 
-**[Try it now →](https://rag-comparator.netlify.app/app)**
+**[Try it now →](https://rag-comparator.netlify.app)**
 
 </div>
